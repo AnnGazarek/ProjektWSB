@@ -14,9 +14,7 @@ Obszarem testów jest działanie sklepu internetowego: logowanie, dodawanie prod
 W moich testach skupiłam się na przeanalizowaniu powyższych możliwości za pomocą testów automatycznych i w tym celu stworzyłam kilka przypadków testowych. 
 
 ### Specyfikacja
-System operacyjny komputera: Windows 11 Version 22H2 22621.1702
-   Selenium: 3.141.0
-   Python: 3.8.10
+   System operacyjny komputera: Windows 11 Version 22H2 22621.1702  Selenium: 3.141.0  Python: 3.8.10
 
 ### Opis projektu i przypadki testowe 
 Testowane są następujące funkcje: 
