@@ -15,9 +15,8 @@ W moich testach skupiłam się na przeanalizowaniu powyższych możliwości za p
 
 ### Specyfikacja
 System operacyjny komputera: Windows 11 Version 22H2 22621.1702
-VM:
-Selenium: 3.141.0
-Biblioteki: unittest, webrider, time
+   Selenium: 3.141.0
+   Python: 3.8.10
 
 ### Opis projektu i przypadki testowe 
 Testowane są następujące funkcje: 
